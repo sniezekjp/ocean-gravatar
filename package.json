@@ -1,0 +1,15 @@
+{
+  "name": "ocean-gravatar",
+  "version": "0.0.1",
+  "description": "Get gravatar img url from email",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "gravatar"
+  ],
+  "author": "JP",
+  "license": "MIT"
+}
