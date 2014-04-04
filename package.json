@@ -1,6 +1,6 @@
 {
   "name": "ocean-gravatar",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Get gravatar img url from email",
   "main": "app.js",
   "scripts": {
